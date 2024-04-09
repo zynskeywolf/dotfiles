@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=X-CD-Roast
+Icon=tools-media-optical-burn
+Type=Application
+Exec=xcdroast
+StartupNotify=false
+Terminal=false
+Categories=Utility;DiscBurning

@@ -1,0 +1,10 @@
+Print
+ scrot
+shift + Print
+ scrot -s
+super + Escape
+ lxtask
+super + C
+ galculator
+super + T
+ gnome-terminal
