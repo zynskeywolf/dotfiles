@@ -1,0 +1,8 @@
+cd /tmp
+rm master.zip
+wget https://git.disroot.org/eudaimon/E17gtk-revolved/archive/master.zip
+unzip -o master.zip
+cd ~
+mkdir .themes
+cp -r /tmp/e17gtk-revolved .themes
+mv .xinitrc-real .xinitrc
