@@ -1,1 +1,1 @@
-lxterminal -e bash .config/zdesktop-init
+qterminal -e bash .config/zdesktop-init
