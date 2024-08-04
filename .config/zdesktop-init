@@ -1,8 +1,3 @@
-cd /tmp
-rm master.zip
-wget https://git.disroot.org/eudaimon/E17gtk-revolved/archive/master.zip
-unzip -o master.zip
-cd ~
-mkdir .themes
-cp -r /tmp/e17gtk-revolved .themes
+sudo pacman -S wget unzip xfce4-whiskermenu-plugin pcmanfm alsa-utils pavucontrol pipewire-jack pipewire-pulse librewolf sxhkd mate-polkit xfwm4 gvfs leafpad notepadqq lxtask gpicview
 mv .xinitrc-real .xinitrc
+chmod +x .xinitrc
