@@ -2,6 +2,5 @@ xfce4-panel &
 sxhkd &
 /lib/mate-polkit/polkit-mate-authentication-agent-1 &
 pcmanfm --desktop &
-udiskie &
 pipewire &
 exec xfwm4
