@@ -3,4 +3,5 @@ sxhkd &
 /lib/mate-polkit/polkit-mate-authentication-agent-1 &
 pcmanfm --desktop &
 pipewire &
+udiskie &
 exec xfwm4
