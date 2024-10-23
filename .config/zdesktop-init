@@ -1,3 +1,4 @@
 sudo pacman -S alsa-utils bauh gpicview gvfs leafpad librewolf lxtask mate-polkit pavucontrol pcmanfm pipewire-jack pipewire-pulse qterminal sxhkd unzip wget xfce4-whiskermenu-plugin xfwm4
 mv .xinitrc-real .xinitrc
 chmod +x .xinitrc
+rm -rf .git
