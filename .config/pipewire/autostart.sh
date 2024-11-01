@@ -1,6 +1,6 @@
 pipewire-pulse &
 wireplumber &
-stty -F /dev/ttyUSB0 19200
+stty -F /dev/ttyUSB0 19200 -echo
 sleep 1
 echo -ne '\x01\x00\x00\x01' > /dev/ttyUSB0
 sleep 1
